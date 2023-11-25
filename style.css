@@ -1,0 +1,20 @@
+
+.head {
+    font-weight: bold;
+    font-size: 38px;
+    color: black;
+    padding-left: 10px;
+    
+}
+
+.log {
+    color: black;
+
+}
+.date, .title
+{
+    font-weight: bold;
+}
+.title {
+    font-size: 22px;
+}
